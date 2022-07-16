@@ -30,7 +30,7 @@
 <a href="https://codesandbox.com/redheet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="redheet" height="30" width="40" /></a>
 <a href="https://fb.com/redheet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="redheet" height="30" width="40" /></a>
 <a href="https://instagram.com/redhet_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="redhet_" height="30" width="40" /></a>
-<a href="https://discord.gg/#2734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2734" height="30" width="40" /></a>
+<a href="https://discord.gg/いさおはせがわ#2734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="いさおはせがわ#2734" height="30" width="40" /></a>
 </p>
 
 
