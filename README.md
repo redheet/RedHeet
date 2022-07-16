@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Rumah Riset](https://github.com/redheet/rumah-riset-apps)
 
-- 👨‍💻 All of my projects are available at [https://resume-redheet.vercel.app/](https://resume-redheet.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://resume-redheet.vercel.app/](https://resume-redheet.vercel.app/portfolios)
 
 - 💬 Ask me about **Android , React**
 
