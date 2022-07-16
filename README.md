@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Naufal Zainudin Zidane</h1>
 <h3 align="center">As an open-minded person who loves to learn something new, i can adapt quickly and work well both individually or as part of the team. My personal interests are mostly focused on JavaScript & Development (Front End). However, at the moment, my interest is mostly related to IT industry</h3>
-<br />
-<br />
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redheet&label=Profile%20views&color=0e75b6&style=flat" alt="redheet" /> </p>
 
