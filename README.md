@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Naufal Zainudin Zidane</h1>
+<h1 align="center"> Hi Stupid You NEED your account? Call me Baby! </h1>
+<h2 align="center">Hi 👋, I'm Naufal Zainudin Zidane</h2>
 <h3 align="center">As an open-minded person who loves to learn something new, i can adapt quickly and work well both individually or as part of the team. My personal interests are mostly focused on JavaScript & Development (Front End).</h3>
 
 
