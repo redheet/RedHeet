@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redheet" alt="redheet" /></a> </p>
 
-- 🔭 I’m currently working on [Rumah Riset](https://play.google.com/store/apps/details?id=com.rumah.riset)
+- 🔭 I’m currently working on [SMP Islam Modern Al-Fakhir](https://smpialfakhir.sch.id)
 
 - 🌱 I’m currently learning **Back End , Brodcasting**
 
-- 👯 I’m looking to collaborate on [Rumah Riset](https://github.com/redheet/rumah-riset-apps)
+- 👯 I’m looking to collaborate on [SMP Islam Modern Al-Fakhir](https://smpialfakhir.sch.id)
 
 - 👨‍💻 All of my projects are available at [https://resume-redheet.vercel.app/portfolios](https://resume-redheet.vercel.app/portfolios)
 
