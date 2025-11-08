@@ -28,5 +28,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redheet&" alt="redheet" /></p>
 
----
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ut3s26rl6sh3xlvsw6sndohb4y)
