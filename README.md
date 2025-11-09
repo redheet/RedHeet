@@ -14,7 +14,9 @@
   <a href="https://www.linkedin.com/in/nozazi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="55" height="35" alt="hackerrank logo"  />
+ <a href="https://www.hackerrank.com/profile/naufalzidane32" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="55" height="35" alt="hackerrank logo"  />
+ </a>
 </div>
 
 ###
